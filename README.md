@@ -12,8 +12,6 @@ Generación de los documentos de producción RPA para Sura.
 * ✅ `CP`: Casos de prueba y su detalle
     * Pendiente
 
-> **Warning**: Solo usar para robots nuevos o si aun no has hecho el pase a producción
-
 # Dependencias
 Instalar Python 3.9.2: [Descarga](https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe)
 
