@@ -5,11 +5,11 @@ Generación de los documentos de producción RPA para Sura.
 * ✅ `PR`: Generacion de scripts
     * Te genera los scripts base, pero dependiendo del proceso se deberán agregar mas scripts
 * ✅ `REV`: Revision de pares
-* 🟡 `PO`: Plan de orden de trabajo.
+* ✅ `PO`: Plan de orden de trabajo.
     * Generación parcial, actualizar la pestaña "General" con las fechas de tu estimación
-* ❌ `LR`: Lista de requerimiento (funcionales y no funcionales)
+* ✅ `LR`: Lista de requerimiento (funcionales y no funcionales)
     * Pendiente
-* ❌ `CP`: Casos de prueba y su detalle
+* ✅ `CP`: Casos de prueba y su detalle
     * Pendiente
 
 > **Warning**: Solo usar para robots nuevos o si aun no has hecho el pase a producción
@@ -21,13 +21,7 @@ Instalar Python 3.9.2: [Descarga](https://www.python.org/ftp/python/3.9.2/python
 
 Instalar dependencias, ejecutar en Powershell.
 ```sh
-pip3 install pandas
-pip3 install openpyxl
-pip3 install docxtpl
-pip3 install Pillow
-pip3 install editpyxl
-pip install datatables
-pip install Jinja2
+pip install -r requirements.txt
 ```
 
 # Guia de uso
