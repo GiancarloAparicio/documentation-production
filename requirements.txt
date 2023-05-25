@@ -1,0 +1,6 @@
+datatable==1.0.0
+docxtpl==0.16.5
+editpyxl==0.1.10
+Jinja2==3.1.2
+openpyxl==3.0.10
+pandas==1.5.3
